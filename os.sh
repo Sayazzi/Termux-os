@@ -8,13 +8,13 @@ echo -e "\e[94m   ( (      \ \___  ( ( \ \_))  /_/      \_\   ) \__/ (   _/ / \ 
 echo -e "\e[92m   /__\      \____\  )_) \__/  (/          \)  \______/  (__/   \__)" 
                     
  
-echo -e " \e[91m                                                         ____      _____  " 
-echo -e " \e[91m                                                        / __ \    / ____\ " 
-echo -e " \e[96m                                                       / /  \ \  ( (___   " 
-echo -e " \e[96m                                                      ( ()  () )  \___ \  " 
-echo -e " \e[1;91m Instagram\e[96m / \e[100;97minstagram.com/farrelauliairfealdo_\e[0;31m       ( ()  () )      ) )" 
-echo -e " \e[1;91m Github\e[96m /\e[1;93m FrrlxD                                       \ \__/ /   ___/ /"  
-echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m farrelauliairfealdo                         \____/   /____/"    
+echo -e " \e[91m                                                       ____      _____  " 
+echo -e " \e[91m                                                      / __ \    / ____\ " 
+echo -e " \e[96m                                                     / /  \ \  ( (___   " 
+echo -e " \e[96m                                                    ( ()  () )  \___ \  " 
+echo -e " \e[1;91m Instagram\e[96m / \e[100;97minstagram.com/farrelauliairfealdo_\e[0;31m     ( ()  () )      ) )" 
+echo -e " \e[1;91m Github\e[96m /\e[1;93m FrrlxD                                     \ \__/ /   ___/ /"  
+echo -e " \e[1;91m Telegram\e[1;96m /\e[1;92m farrelauliairfealdo                       \____/   /____/"    
 echo ""
 
 banner ( ) {
